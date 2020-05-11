@@ -1,2 +1,2 @@
 # Wheaton-College
-Projects Completed for Courses at Wheaton College (IL)
+Selection of projects completed for courses at Wheaton College (IL)
